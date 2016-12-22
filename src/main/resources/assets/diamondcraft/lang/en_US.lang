@@ -1,0 +1,67 @@
+//Items
+item.DiamondStick.name=Diamond Stick
+item.CompressedDiamond.name=Compressed Diamond
+item.Uranium.name=Uranium
+item.LightDiamond.name=LightDiamond
+
+//Hammer
+item.ironhammer.name=Iron Hammer
+item.goldhammer.name=Gold Hammer
+item.DarkCrystalHammer.name=DarkCrystal Hammer
+item.DiamondHammer.name=Diamond Hammer
+item.uraniumhammer.name=Uranium Hammer
+
+//Plate
+item.GoldPlate.name=Gold Plate
+item.IronPlate.name=Iron Plate
+item.DiamondPlate.name=Diamond Plate
+item.UraniumPlate.name=Uranium Plate
+
+//Crystal
+item.EnergyCrystal.name=Energy Crystal
+item.DarkCrystal.name=Dark Crystal
+item.UraniumCrystal.name=Uranium Crystal
+
+//Ingot
+item.UraniumIngot.name=Uranium Ingot
+
+//Tab
+itemGroup.DiamondCraft=DiamondCraft
+
+//Block
+tile.CompressedDiamondBlock.name=Block of CompressedDiamond
+tile.LightDiamondBlock.name=Block of LightDiamond Block
+tile.UraniumBlock.name=Uranium Block
+tile.TwilightPortalBlock.name=Twilight PortalBlock
+
+//Ore
+tile.LightDiamondOre.name=Light Diamond Ore
+tile.UraniumOre.name=Uranium Ore
+
+//Armor
+item.LightDiamondHelmet.name=LightDiamond Helmet
+item.LightDiamondChestplate.name=LightDiamond Chestplate
+item.LightDiamondLeggings.name=LightDiamond Leggings
+item.LightDiamondBoots.name=LightDiamond Boots
+item.ObsidianHelmet.name=Obsidian Helmet
+item.ObsidianChestplate.name=Obsidian Chestplate
+item.ObsidianLeggings.name=Obsidian Leggings
+item.ObsidianBoots.name=Obsidian Boots
+
+//Tool
+item.ObsidianPickaxe.name=Obsidian Pickaxe
+item.ObsidianAxe.name=Obsidian Axe
+item.ObsidianHoe.name=Obsidian Hoe
+item.ObsidianShovel.name=Obsidian Shovel
+item.ObsidianSword.name=Obsidian Sword
+item.LightDiamondPickaxe.name=LightDiamond Pickaxe
+item.LightDiamondAxe.name=LightDiamond Axe
+item.LightDiamondHoe.name=LightDiamond Hoe
+item.LightDiamondShovel.name=LightDiamond Shovel
+item.LightDiamondSword.name=LightDiamondSword
+
+//Food
+item.DoubleApple.name=Double Apple
+
+//Chest
+tile.Reverse Chest.name=ReverseChest
